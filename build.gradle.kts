@@ -3,7 +3,7 @@ plugins {
     application
 }
 
-group = "org.example"
+group = "com.lucasalfare.flhexrray"
 version = "1.0-SNAPSHOT"
 
 repositories {
